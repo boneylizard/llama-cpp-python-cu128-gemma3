@@ -112,7 +112,7 @@ Confirmation that your GPU(s) are being used for model layer offloading.
 Once installed and verified, you can use llama-cpp-python in your projects as you normally would. Refer to the official llama-cpp-python documentation for detailed usage instructions.
 
 ## Acknowledgments
-This prebuilt wheel is based on the excellent llama-cpp-python project by Andrei Betlen (@abetlen). All credit for the core library and Python bindings goes to the original maintainers and to llama.cpp by Georgi Gerganov (@ggerganov).
+This prebuilt wheel is based on the excellent llama-cpp-python project by Andrei Betlen (@abetlen). All credit for the core library and Python bindings goes to the original maintainers and to llama.cpp by Georgi Gerganov (@ggerganov) and the ggml team.
 
 This specific wheel was built by Bernard Peter Fitzgerald (@boneylizard) using the source code from abetlen/llama-cpp-python, compiled with CUDA 12.8 support for Windows x64 systems, and verified for Gemma 3 model compatibility.
 
