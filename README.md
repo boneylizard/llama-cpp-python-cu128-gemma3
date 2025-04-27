@@ -1,5 +1,10 @@
 # llama-cpp-python Prebuilt Wheel (Windows x64, CUDA 12.8, Gemma 3 Support)
 
+---
+🛠️ **Built with** [llama.cpp (b5192)](https://github.com/ggml-org/llama.cpp) + [CUDA 12.8](https://developer.nvidia.com/cuda-toolkit)
+---
+**Prebuilt `.whl` for llama-cpp-python 0.3.8 — CUDA 12.8 acceleration with full Gemma 3 model support (Windows x64).**
+
 This repository provides a prebuilt Python wheel (`.whl`) file for **llama-cpp-python**, specifically compiled for Windows 10/11 (x64) with NVIDIA CUDA 12.8 acceleration enabled.
 
 Building `llama-cpp-python` with CUDA support on Windows can be a complex process involving specific Visual Studio configurations, CUDA Toolkit setup, and environment variables. This prebuilt wheel aims to simplify installation for users with compatible systems.
